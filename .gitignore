@@ -1,2 +1,4 @@
 Time Series (Phase 3)/weather2k.npy
 *.pt
+!transformer_model_epoch_19.pt
+!bi-lstm_model_epoch_42.pt
